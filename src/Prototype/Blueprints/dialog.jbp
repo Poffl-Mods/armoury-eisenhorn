@@ -1,0 +1,50 @@
+{
+  "AssetId": "cdef43544674554d9306df77b0c5b4f0",
+  "Data": {
+    "$type": "c8ff73feae580b142a9f43e0c61d7f32, BlueprintDialog",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Author": "Poffl",
+    "Comment": "Eisenhorn quest prototype 0.1.0",
+    "FirstCue": {
+      "Cues": [
+        "!bp_a12c84cefd4b5246883daaded6d51b57"
+      ],
+      "Strategy": "First"
+    },
+    "StartPosition": null,
+    "Conditions": {
+      "Operation": "And",
+      "Conditions": [
+        {
+          "$type": "e77a58dedc8350a4faa55f5e66b9f575, ObjectiveStatus",
+          "name": "$ObjectiveStatus$1d7e3e8fd6735c5ebe6c8dc9b6b224aa",
+          "Not": false,
+          "m_QuestObjective": "!bp_b72f12cf229b501ca5fef51a60373d6b",
+          "State": "Started"
+        }
+      ]
+    },
+    "StartActions": {
+      "Actions": []
+    },
+    "FinishActions": {
+      "Actions": []
+    },
+    "ReplaceActions": {
+      "Actions": []
+    },
+    "FeatureFreezed": false,
+    "TurnPlayer": false,
+    "TurnFirstSpeaker": false,
+    "IsLockCameraRotationButtons": false,
+    "IsNarratorText": false,
+    "Type": "Book",
+    "Description": null,
+    "m_EditorComment": null
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

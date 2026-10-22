@@ -1,0 +1,64 @@
+{
+  "AssetId": "b72f12cf229b501ca5fef51a60373d6b",
+  "Data": {
+    "$type": "9d27cf036b8dcef408e34b42d5234400, BlueprintQuestObjective",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Author": "Poffl",
+    "Comment": "Eisenhorn quest prototype 0.1.0",
+    "m_Addendums": [],
+    "m_Areas": [
+      "!bp_05e7294985fa4d81b4c133f648256ed6",
+      "!bp_76b853bf2d3940228c2af55ca3c4ac1d",
+      "!bp_66b9351d457f4363afebcbca96a506da"
+    ],
+    "Title": {
+      "m_Key": "eisenhorn-prototype-objective-title",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "MultiEntranceEntries": [],
+    "Description": {
+      "m_Key": "eisenhorn-prototype-objective-description",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "Destination": {
+      "m_Key": "eisenhorn-prototype-destination",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "AutoFailDays": 0,
+    "IsFakeFail": false,
+    "StartOnKingdomTime": false,
+    "m_FinishParent": true,
+    "m_Hidden": false,
+    "m_NextObjectives": [],
+    "m_Quest": "!bp_eb1d6c7b9aa15bc29c28052527bca662",
+    "m_Type": "Objective",
+    "m_SilentQuestNotification": 0,
+    "m_EditorComment": {
+      "m_EditorComment": null,
+      "m_Foldout": false
+    },
+    "UiCounterEtude": false,
+    "BlueprintCounterEtude": null,
+    "BlueprintCounterEtudeDescription": {
+      "m_Key": "",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    }
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

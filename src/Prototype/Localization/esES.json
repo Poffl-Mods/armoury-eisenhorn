@@ -1,0 +1,72 @@
+{
+  "strings": {
+    "eisenhorn-prototype-quest-title": {
+      "Offset": 0,
+      "Text": "Eisenhorn: Quest System Test"
+    },
+    "eisenhorn-prototype-quest-description": {
+      "Offset": 0,
+      "Text": "Read the test document to verify the native quest and Book dialogue systems."
+    },
+    "eisenhorn-prototype-quest-complete": {
+      "Offset": 0,
+      "Text": "The Eisenhorn quest prototype was acknowledged."
+    },
+    "eisenhorn-prototype-RegionName": {
+      "Offset": 0,
+      "Text": ""
+    },
+    "eisenhorn-prototype-Place": {
+      "Offset": 0,
+      "Text": ""
+    },
+    "eisenhorn-prototype-ServiceMessage": {
+      "Offset": 0,
+      "Text": ""
+    },
+    "eisenhorn-prototype-objective-title": {
+      "Offset": 0,
+      "Text": "Read the Eisenhorn test document"
+    },
+    "eisenhorn-prototype-objective-description": {
+      "Offset": 0,
+      "Text": "After the out-of-control servitor encounter, leave the conversation and look for the parchment at your character’s feet. It is also available in the prologue cabin/bridge area and the post-prologue officer deck. Select the final acknowledgement to finish this test."
+    },
+    "eisenhorn-prototype-destination": {
+      "Offset": 0,
+      "Text": "Voidship"
+    },
+    "eisenhorn-prototype-page1": {
+      "Offset": 0,
+      "Text": "Test Page 1 – Eisenhorn Quest System"
+    },
+    "eisenhorn-prototype-page2": {
+      "Offset": 0,
+      "Text": "Test Page 2 – Story Progression"
+    },
+    "eisenhorn-prototype-page3": {
+      "Offset": 0,
+      "Text": "Test Page 3 – Quest Complete"
+    },
+    "eisenhorn-prototype-next1": {
+      "Offset": 0,
+      "Text": "Read the next page."
+    },
+    "eisenhorn-prototype-next2": {
+      "Offset": 0,
+      "Text": "Read the next page."
+    },
+    "eisenhorn-prototype-ack": {
+      "Offset": 0,
+      "Text": "Acknowledge and complete the quest."
+    },
+    "eisenhorn-prototype-cancel": {
+      "Offset": 0,
+      "Text": "Close the document. I will return later."
+    },
+    "eisenhorn-prototype-speaker": {
+      "Offset": 0,
+      "Text": "Eisenhorn Test Document"
+    }
+  }
+}

@@ -1,0 +1,185 @@
+[
+  {
+    "path": "/Users/poffl/poffl-forge/mods/mac-modding/RogueTrader-Modding/Blueprints/World/Quests/Chapter 1/FlashOfTheLastSunrise/Obj5_StopAurora.jbp",
+    "sha256": "b63d7333f02853fd94cd50b5559a2355232c151d0bb0fabe8b59dc28ec951201",
+    "assetId": "49bd197947624e59881fc51f923f2d70",
+    "type": "9d27cf036b8dcef408e34b42d5234400, BlueprintQuestObjective",
+    "relevantNodes": []
+  },
+  {
+    "path": "/Users/poffl/poffl-forge/mods/mac-modding/RogueTrader-Modding/Blueprints/World/Quests/Chapter 1/RaucadRun_c1/Obj3_SafeShuttle .jbp",
+    "sha256": "9522b6675059e9dddb105e87f67114fe5aaef543040958ee25550ad8b81b6f15",
+    "assetId": "c5438eab19b849e19a79ace23c3ddc5d",
+    "type": "9d27cf036b8dcef408e34b42d5234400, BlueprintQuestObjective",
+    "relevantNodes": []
+  },
+  {
+    "path": "/Users/poffl/poffl-forge/mods/mac-modding/RogueTrader-Modding/Blueprints/World/Quests/Chapter 1/RaucadRun_c1/Obj4_Escape .jbp",
+    "sha256": "8ab255d6109c2ed7674e9ba5caf97820cc29cc0ef33f17d849681edf5b989a86",
+    "assetId": "53ffb25c02e74d82bed8250cdd781fde",
+    "type": "9d27cf036b8dcef408e34b42d5234400, BlueprintQuestObjective",
+    "relevantNodes": []
+  },
+  {
+    "path": "/Users/poffl/poffl-forge/mods/mac-modding/RogueTrader-Modding/Blueprints/World/Areas/Chapter_1/StarPort/Addons/StarPort_SecondState.jbp",
+    "sha256": "8d221d6ef358fd8b173876e998a16442ed6e6120baf8e77ad06b81d0f5ab2c99",
+    "assetId": "38158e4891a5412c8e11cc8628daf03b",
+    "type": "c542bb267f6d4651af99d4c5b3a0df9a, BlueprintAreaMechanics",
+    "relevantNodes": []
+  },
+  {
+    "path": "/Users/poffl/poffl-forge/mods/mac-modding/RogueTrader-Modding/Blueprints/World/Areas/Prologue/VoidshipOfficerDeck_AfterPrologue/Addons/VoidshipOfficerDeck_AfterPrologue_KibellahRendezvous.jbp",
+    "sha256": "37b8814031b17a465199b427141694d6245f69908caf6dfe46367289e4fcb291",
+    "assetId": "e224913e8c84416f935884f109b00f4b",
+    "type": "c542bb267f6d4651af99d4c5b3a0df9a, BlueprintAreaMechanics",
+    "relevantNodes": []
+  },
+  {
+    "path": "/Users/poffl/poffl-forge/mods/mac-modding/RogueTrader-Modding/Blueprints/World/Etudes/RogueTraderEtude/Chapter01_Extra/StarPort_SecondState.jbp",
+    "sha256": "1a2ad4ff7d5c3a62a83cdd04c8b1aaa19f3c2306c9c80481d8e50599718e76ad",
+    "assetId": "675793ba6ab345acb0beb81247a6ca24",
+    "type": "de1b6b4bab9b223478a7bc8835ca81d7, BlueprintEtude",
+    "relevantNodes": [
+      {
+        "jsonPath": "Data.Components[0].Actions.Actions[7]",
+        "value": {
+          "$type": "31abd123cda0b4147b509219dbb097a0, SetObjectiveStatus",
+          "name": "$SetObjectiveStatus$781c088809ae43118cf6339c31352192",
+          "Status": "Complete",
+          "m_Objective": "!bp_f3af040cf96740a1aef04ba9fbb10e36",
+          "StartObjectiveIfNone": false
+        }
+      },
+      {
+        "jsonPath": "Data.Components[0].Actions.Actions[8]",
+        "value": {
+          "$type": "3af21dd61b640c941b5704f3df91e16d, GiveObjective",
+          "name": "$GiveObjective$5b320d6fd7cc4d88ad2c5d4eeb4d4605",
+          "m_Objective": "!bp_eb4bcaba7a0c4f89b63f557c6bcfa05d"
+        }
+      },
+      {
+        "jsonPath": "Data.Components[1]",
+        "value": {
+          "$type": "576c0defa521db5409ebace3b946bf6a, EvaluatedUnitDeathTrigger",
+          "name": "$EvaluatedUnitDeathTrigger$9b1503e1-5e8d-41e9-a5a9-db72c7305542",
+          "m_Flags": 0,
+          "PrototypeLink": {
+            "guid": "",
+            "name": ""
+          },
+          "m_Overrides": [],
+          "Comment": "",
+          "AnyUnit": false,
+          "Unit": {
+            "$type": "da45a98792587f244901f1020d4b35b1, UnitFromSpawner",
+            "name": "$UnitFromSpawner$f2e1f64e-1ab9-4553-b35b-b1ac2ad8bf91",
+            "Spawner": {
+              "EntityNameInEditor": "ChaosMarine",
+              "_entity_id": "0dbc3e35-a100-498e-b79c-120880ed2e59",
+              "SceneAssetGuid": "1ab66bc255847fa47bd3940e178a2955"
+            }
+          },
+          "Actions": {
+            "Actions": [
+              {
+                "$type": "3abef1c138b2b3344bebcf6fbbe5cf47, HideMapObject",
+                "name": "$HideMapObject$da2b4d8f-7988-40b4-85a2-22b6b64387ca",
+                "MapObject": {
+                  "$type": "2f7f1ee24f13dca42977f3b2b5a847f8, MapObjectFromScene",
+                  "name": "$MapObjectFromScene$4fb7dc99-46e1-49f0-becf-b4a568b837f4",
+                  "MapObject": {
+                    "EntityNameInEditor": "AreaExit (1)",
+                    "_entity_id": "b3620bb5-c2b7-44a1-83ea-48a048a46f03",
+                    "SceneAssetGuid": "1ab66bc255847fa47bd3940e178a2955"
+                  }
+                },
+                "Unhide": true
+              },
+              {
+                "$type": "31abd123cda0b4147b509219dbb097a0, SetObjectiveStatus",
+                "name": "$SetObjectiveStatus$4fb64dcbee2c4cd485cf6a4d7c12dd78",
+                "Status": "Complete",
+                "m_Objective": "!bp_c5438eab19b849e19a79ace23c3ddc5d",
+                "StartObjectiveIfNone": false
+              },
+              {
+                "$type": "3af21dd61b640c941b5704f3df91e16d, GiveObjective",
+                "name": "$GiveObjective$d3812881777e4d06afae5e1a9dcfd867",
+                "m_Objective": "!bp_53ffb25c02e74d82bed8250cdd781fde"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "jsonPath": "Data.Components[1].Actions.Actions[1]",
+        "value": {
+          "$type": "31abd123cda0b4147b509219dbb097a0, SetObjectiveStatus",
+          "name": "$SetObjectiveStatus$4fb64dcbee2c4cd485cf6a4d7c12dd78",
+          "Status": "Complete",
+          "m_Objective": "!bp_c5438eab19b849e19a79ace23c3ddc5d",
+          "StartObjectiveIfNone": false
+        }
+      },
+      {
+        "jsonPath": "Data.Components[1].Actions.Actions[2]",
+        "value": {
+          "$type": "3af21dd61b640c941b5704f3df91e16d, GiveObjective",
+          "name": "$GiveObjective$d3812881777e4d06afae5e1a9dcfd867",
+          "m_Objective": "!bp_53ffb25c02e74d82bed8250cdd781fde"
+        }
+      }
+    ]
+  },
+  {
+    "path": "/Users/poffl/poffl-forge/mods/mac-modding/RogueTrader-Modding/Blueprints/World/Dialogs/Ch2_VS/ForgeWorld/Scrapcode_bookevent/Scrapcode_bookevent.jbp",
+    "sha256": "301c2cac72c88dfa8c772336b15db7836c77587a404fc6a15a55757d9a73bbcf",
+    "assetId": "84330be25b254fa0b0decbf51717eeb7",
+    "type": "c8ff73feae580b142a9f43e0c61d7f32, BlueprintDialog",
+    "relevantNodes": [
+      {
+        "jsonPath": "Data.FinishActions.Actions[0]",
+        "value": {
+          "$type": "0e0c1fe99d7862d4492bcd1535939a9a, StartDialog",
+          "name": "$StartDialog$77dcea93-72e1-4537-92a8-7baf88aee668",
+          "DialogueOwner": null,
+          "m_Dialogue": "!bp_ab56e7f4e94e76f40896679230f2960f",
+          "DialogEvaluator": null,
+          "SpeakerName": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "path": "/Users/poffl/poffl-forge/mods/mac-modding/RogueTrader-Modding/Blueprints/World/Encounters/DestroyedShipBESystem/ActionsHolders/StartBookEvent.jbp",
+    "sha256": "2b36d652f5691f867b5b00dda60c5dbefb5bd87b61a74ddd63b1c5d3edfc4eda",
+    "assetId": "4d1b5a1515a0482b8f1b9f412bccf766",
+    "type": "63bb90208198450095c55997ebc6ae0a, ActionsHolder",
+    "relevantNodes": [
+      {
+        "jsonPath": "Data.Actions.Actions[0]",
+        "value": {
+          "$type": "0e0c1fe99d7862d4492bcd1535939a9a, StartDialog",
+          "name": "$StartDialog$572c2f5d-9c81-4923-8059-2f9f9ad13d86",
+          "DialogueOwner": null,
+          "m_Dialogue": "!bp_41337db653700bd44890fb1b9e2b1481",
+          "DialogEvaluator": null,
+          "SpeakerName": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null
+          }
+        }
+      }
+    ]
+  }
+]

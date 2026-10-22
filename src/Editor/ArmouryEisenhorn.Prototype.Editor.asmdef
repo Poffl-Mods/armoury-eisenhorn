@@ -1,0 +1,13 @@
+{
+  "name": "ArmouryEisenhorn.Prototype.Editor",
+  "references": [
+    "Mods.Editor",
+    "ArmouryEisenhorn.Prototype",
+    "Unity.ScriptableBuildPipeline.Editor",
+    "Unity.ScriptableBuildPipeline"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}

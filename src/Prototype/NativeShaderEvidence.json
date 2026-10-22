@@ -1,0 +1,10 @@
+{
+  "bundlePath": "/Users/poffl/Library/Application Support/Steam/steamapps/common/Warhammer 40,000 Rogue Trader/WH40KRT.app/Bundles/shaders",
+  "sha256": "770e86706a8f8097dfe632396387b96de2d412d1ba13a6ced66cdb0e0682abaa",
+  "unityVersion": "6000.0.64f1",
+  "serializedShaderNamesFound": [
+    "Owlcat/Unlit",
+    "Owlcat/Lit"
+  ],
+  "decompressedBytes": 29876392
+}

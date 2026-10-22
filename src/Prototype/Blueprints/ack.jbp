@@ -1,0 +1,86 @@
+{
+  "AssetId": "975cc2352b595439affb49e60b194968",
+  "Data": {
+    "$type": "df78945bb9f434e40b897758499cb714, BlueprintAnswer",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Author": "Poffl",
+    "Comment": "Eisenhorn quest prototype 0.1.0",
+    "ParentAsset": "cdef43544674554d9306df77b0c5b4f0",
+    "SoulMarkRequirement": {
+      "Direction": "None",
+      "Value": 0,
+      "CheckByRank": false,
+      "Rank": 0,
+      "Description": null
+    },
+    "m_EditorComment": null,
+    "Text": {
+      "m_Key": "eisenhorn-prototype-ack",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "NextCue": {
+      "Cues": [],
+      "Strategy": "First"
+    },
+    "ShowOnce": false,
+    "ShowOnceCurrentDialog": false,
+    "ShowCheck": {
+      "Type": "Unknown",
+      "Difficulty": "Custom",
+      "DC": 0
+    },
+    "OnCheckSuccess": null,
+    "OnCheckFail": null,
+    "DebugMode": false,
+    "CharacterSelection": {
+      "SelectionType": "Clear",
+      "ComparisonStats": []
+    },
+    "ShowConditions": {
+      "Operation": "And",
+      "Conditions": []
+    },
+    "SelectConditions": {
+      "Operation": "And",
+      "Conditions": [
+        {
+          "$type": "e77a58dedc8350a4faa55f5e66b9f575, ObjectiveStatus",
+          "name": "$ObjectiveStatus$1d7e3e8fd6735c5ebe6c8dc9b6b224aa",
+          "Not": false,
+          "m_QuestObjective": "!bp_b72f12cf229b501ca5fef51a60373d6b",
+          "State": "Started"
+        }
+      ]
+    },
+    "RequireValidCue": false,
+    "AddToHistory": true,
+    "OnSelect": {
+      "Actions": [
+        {
+          "$type": "31abd123cda0b4147b509219dbb097a0, SetObjectiveStatus",
+          "name": "$SetObjectiveStatus$c77233a512c15c86b9fb2129eb52b45c",
+          "Status": "Complete",
+          "m_Objective": "!bp_b72f12cf229b501ca5fef51a60373d6b",
+          "StartObjectiveIfNone": false
+        }
+      ]
+    },
+    "Description": null,
+    "FakeChecks": [],
+    "SoulMarkShift": {
+      "Direction": "None",
+      "Value": 0,
+      "CheckByRank": false,
+      "Rank": 0,
+      "Description": null
+    }
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

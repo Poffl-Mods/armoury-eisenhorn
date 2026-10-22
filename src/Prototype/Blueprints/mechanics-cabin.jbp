@@ -1,0 +1,25 @@
+{
+  "AssetId": "57805f994ecc58919c19a3fef46cfc44",
+  "Data": {
+    "$type": "c542bb267f6d4651af99d4c5b3a0df9a, BlueprintAreaMechanics",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Author": "Poffl",
+    "Comment": "Eisenhorn quest prototype 0.1.0",
+    "Area": "!bp_76b853bf2d3940228c2af55ca3c4ac1d",
+    "Scene": {
+      "m_SceneAsset": {
+        "guid": "18af9b35a70e554282511e8c7160059a",
+        "fileid": 102900000
+      },
+      "m_SceneName": "EisenhornPrototype_Mechanics"
+    },
+    "AdditionalDataBank": {
+      "Value": ""
+    }
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

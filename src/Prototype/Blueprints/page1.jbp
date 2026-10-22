@@ -1,0 +1,57 @@
+{
+  "AssetId": "a12c84cefd4b5246883daaded6d51b57",
+  "Data": {
+    "$type": "b6d078a4ae218fe4a82f3fb5707b7e1f, BlueprintBookPage",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Author": "Poffl",
+    "Comment": "Eisenhorn quest prototype 0.1.0",
+    "ParentAsset": "cdef43544674554d9306df77b0c5b4f0",
+    "ShowOnce": false,
+    "ShowOnceCurrentDialog": false,
+    "Conditions": {
+      "Operation": "And",
+      "Conditions": []
+    },
+    "m_EditorComment": null,
+    "Cues": [
+      "!bp_92b1242f16df54d2882788f1b51d4fc4"
+    ],
+    "Answers": [
+      "!bp_4e0b335d8337557db8e6ea8f20062db9",
+      "!bp_c84922dd472d5afab0f9f679aae83bdd"
+    ],
+    "OnShow": {
+      "Actions": []
+    },
+    "ImageLink": {
+      "AssetId": ""
+    },
+    "ShowMainCharacterName": false,
+    "Companion": null,
+    "ShowMainCharacter": false,
+    "Portrait": null,
+    "UseBackgroundVideo": false,
+    "BackgroundImageLink": {
+      "AssetId": ""
+    },
+    "BackgroundVideoLink": {
+      "AssetId": ""
+    },
+    "UseSound": false,
+    "SoundStartEvent": {
+      "idInternal": 0,
+      "valueGuidInternal": "",
+      "WwiseObjectReference": null
+    },
+    "SoundStopEvent": {
+      "idInternal": 0,
+      "valueGuidInternal": "",
+      "WwiseObjectReference": null
+    }
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

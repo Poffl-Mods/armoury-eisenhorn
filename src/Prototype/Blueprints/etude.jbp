@@ -1,0 +1,81 @@
+{
+  "AssetId": "c9d6c0e2392251cb89eadb2e908b2f41",
+  "Data": {
+    "$type": "de1b6b4bab9b223478a7bc8835ca81d7, BlueprintEtude",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [
+      {
+        "$type": "fec4340333b7d1f4189d73aa8ff10eee, EtudePlayTrigger",
+        "name": "$EtudePlayTrigger$6a02e0fbe6b856f4ba53dc2fc8a5daa8",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Comment": "",
+        "m_Once": true,
+        "m_IgnoreAlreadyProcessedActivation": false,
+        "Conditions": {
+          "Operation": "And",
+          "Conditions": [
+            {
+              "$type": "e77a58dedc8350a4faa55f5e66b9f575, ObjectiveStatus",
+              "name": "$ObjectiveStatus$652106832e02597496a4b604a6764397",
+              "Not": false,
+              "m_QuestObjective": "!bp_b72f12cf229b501ca5fef51a60373d6b",
+              "State": "None"
+            }
+          ]
+        },
+        "Actions": {
+          "Actions": [
+            {
+              "$type": "3af21dd61b640c941b5704f3df91e16d, GiveObjective",
+              "name": "$GiveObjective$b2a1e517954557e6988489cc96bf1c38",
+              "m_Objective": "!bp_b72f12cf229b501ca5fef51a60373d6b"
+            }
+          ]
+        }
+      }
+    ],
+    "Author": "Poffl",
+    "Comment": "Eisenhorn quest prototype 0.1.0",
+    "m_Parent": "",
+    "ActivationCondition": {
+      "Operation": "And",
+      "Conditions": [
+        {
+          "$type": "e77a58dedc8350a4faa55f5e66b9f575, ObjectiveStatus",
+          "name": "$ObjectiveStatus$bfdc1e4a70825fa4a67af7a5cc3d80ca",
+          "Not": false,
+          "m_QuestObjective": "!bp_b653839065a647a08b5721e077da23e1",
+          "State": "Completed"
+        }
+      ]
+    },
+    "CompletionCondition": {
+      "Operation": "And",
+      "Conditions": []
+    },
+    "m_Synchronized": [],
+    "m_LinkedAreaPart": null,
+    "m_LinkedCampaigns": null,
+    "m_IncludeAreaParts": true,
+    "m_AddedAreaMechanics": [
+      "!bp_7b201724267753c196e925f3e7f2ae4a",
+      "!bp_57805f994ecc58919c19a3fef46cfc44",
+      "!bp_fdceef9076f15cbfa3af89e8d0e6efe9"
+    ],
+    "m_StartsWith": [],
+    "m_StartsOnComplete": [],
+    "m_StartsParent": false,
+    "m_CompletesParent": false,
+    "m_ConflictingGroups": [],
+    "Priority": 0
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

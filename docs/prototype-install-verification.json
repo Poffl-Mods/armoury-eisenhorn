@@ -1,0 +1,137 @@
+{
+  "verifiedAtUtc": "2026-10-22T20:40:25.433950+00:00",
+  "installedBy": "Mac-ModInstaller native UI",
+  "installerReported": "Eisenhorn: Quest System Prototype installed and enabled. Restart the game.",
+  "destination": "/Users/poffl/Library/Application Support/Owlcat Games/Warhammer 40000 Rogue Trader/Modifications/EisenhornQuestPrototype",
+  "enabled": true,
+  "packageSha256": "a06291e4288a3c8210f481830a2c3608d28287f4589f2bf8fdcc2643e63e2e08",
+  "latestInstallerBackup": "/Users/poffl/Library/Application Support/Owlcat Games/Warhammer 40000 Rogue Trader/RogueModInstaller Backups/2026-10-22T20-40-02Z-0822A8B0",
+  "verifiedFiles": [
+    {
+      "path": "OwlcatModificationManifest.json",
+      "sha256": "f783a626a034b256f65d58d34e97a0a05ea5aaebae26ae5e12eee828146ea7fe"
+    },
+    {
+      "path": "OwlcatModificationSettings.json",
+      "sha256": "9338f429b1f95b9fbb3414541e75dc41be065b1d36d7c1d9b7a1bf42375e7813"
+    },
+    {
+      "path": "Assemblies/ArmouryEisenhorn.Prototype.dll",
+      "sha256": "542c2d884a4eaf91c4141c6c7eb68fd98455a5414371803812d396519619255b"
+    },
+    {
+      "path": "Blueprints/ack.jbp",
+      "sha256": "641107183f41c4acf836f2a5b4b0340a68db0d9cf8626117f90a285607911b2f"
+    },
+    {
+      "path": "Blueprints/available.jbp",
+      "sha256": "07700f88a099a5b0b32f5ea5901025b648e9f432c3adedb12b510b54078ab35b"
+    },
+    {
+      "path": "Blueprints/cancel.jbp",
+      "sha256": "30c2580a32abf37d68fae13371e22ba020b3197fb0fa8a51da71ecb6ce8f4b1f"
+    },
+    {
+      "path": "Blueprints/cue1.jbp",
+      "sha256": "0931e6af27087f7f892bb0540b05ca18a77a67c7b342d64197ce7acd99c16c0a"
+    },
+    {
+      "path": "Blueprints/cue2.jbp",
+      "sha256": "871af73b6919b8eea8840930cc5c71f309c41e36f9174b10090718a48a569e2d"
+    },
+    {
+      "path": "Blueprints/cue3.jbp",
+      "sha256": "152156635bbe500e7990fe96d2c24cd1588e4e702d253f5f044805630139836d"
+    },
+    {
+      "path": "Blueprints/dialog.jbp",
+      "sha256": "e220e3819493b995db9654c1372282e3834319eb7db93bef24ec988792117e48"
+    },
+    {
+      "path": "Blueprints/etude.jbp",
+      "sha256": "b687529cb4e7d8804fbd2fd54565abbf0aa22961648d935df76fb5076c766e1e"
+    },
+    {
+      "path": "Blueprints/mechanics-after.jbp",
+      "sha256": "d8cc4b13bc58024a68b4f2b2783d13055b1ac4da9a8717920368f88ae517a784"
+    },
+    {
+      "path": "Blueprints/mechanics-cabin.jbp",
+      "sha256": "9e74f32a342c150144745be7f1078ebf8943d3534a8506edc5b682da8941e89e"
+    },
+    {
+      "path": "Blueprints/mechanics-deck.jbp",
+      "sha256": "c456cae2c482ab0d1098ad77f3599cbcffb48eaef53b8760b2fa6f613174f80d"
+    },
+    {
+      "path": "Blueprints/next1.jbp",
+      "sha256": "0f2d97d40ea89860e5f0291255b02b9d8fdb44bf3f7e0349c43a9eae8729f889"
+    },
+    {
+      "path": "Blueprints/next2.jbp",
+      "sha256": "aab46f291a96f7010545124ce6c4dfadba1efa0cd7bad147e94b62eb3b2d5946"
+    },
+    {
+      "path": "Blueprints/objective.jbp",
+      "sha256": "e1ea6a2121825152fa9c771d4dcabb0a3d843b556736c788852be9dcf9cfefb0"
+    },
+    {
+      "path": "Blueprints/page1.jbp",
+      "sha256": "c9c2c2577d8fe2c621055d7e0504db8450cb615af0a9e8cbccea0e30f35f7329"
+    },
+    {
+      "path": "Blueprints/page2.jbp",
+      "sha256": "03b29bed854a97149a3e31100c380d160da6dd2dcfaceb7c81091e91bfa7c603"
+    },
+    {
+      "path": "Blueprints/page3.jbp",
+      "sha256": "177f09afd3227204fc44965e820f1295293d0ed722e29311aa23eb9394dc674c"
+    },
+    {
+      "path": "Blueprints/quest.jbp",
+      "sha256": "cb461d879aefbdcb7bad0144f6024c4c0d9ef3fef4b6e48f30cd5b8f42222f2c"
+    },
+    {
+      "path": "Blueprints/start-actions.jbp",
+      "sha256": "3f529290c6a31c7385d26f91e339bd54b11510d29b59de730b12474f7bfc94d8"
+    },
+    {
+      "path": "Bundles/EisenhornQuestPrototype_BlueprintDirectReferences",
+      "sha256": "b07dc38503e3b8af8245d900a7565ed0a5cca214114969a7ee69aac738f615b8"
+    },
+    {
+      "path": "Bundles/EisenhornQuestPrototype_content",
+      "sha256": "9944f4d07df43f85ca7926dc6c33c2d306895bcb8841ba55cb24af3fa7cde39d"
+    },
+    {
+      "path": "Bundles/EisenhornQuestPrototype_eisenhornprototype_mechanics",
+      "sha256": "7daa7ddcc120f542cc5b6d88b390fdccfd1cc179b543f60f2e383e28ab98184d"
+    },
+    {
+      "path": "Localization/deDE.json",
+      "sha256": "827ebf13720ebf2e347838b963d181df01fc211ad5fbbd359731d75877830802"
+    },
+    {
+      "path": "Localization/enGB.json",
+      "sha256": "827ebf13720ebf2e347838b963d181df01fc211ad5fbbd359731d75877830802"
+    },
+    {
+      "path": "Localization/esES.json",
+      "sha256": "827ebf13720ebf2e347838b963d181df01fc211ad5fbbd359731d75877830802"
+    },
+    {
+      "path": "Localization/frFR.json",
+      "sha256": "827ebf13720ebf2e347838b963d181df01fc211ad5fbbd359731d75877830802"
+    },
+    {
+      "path": "Localization/ruRU.json",
+      "sha256": "827ebf13720ebf2e347838b963d181df01fc211ad5fbbd359731d75877830802"
+    },
+    {
+      "path": "Localization/zhCN.json",
+      "sha256": "827ebf13720ebf2e347838b963d181df01fc211ad5fbbd359731d75877830802"
+    }
+  ],
+  "gameLaunchedByAgent": false,
+  "inGameTestsPerformed": false
+}

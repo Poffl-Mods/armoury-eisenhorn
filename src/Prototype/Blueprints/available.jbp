@@ -1,0 +1,26 @@
+{
+  "AssetId": "697c097de5b35a2dad69f27eb6cc5cb7",
+  "Data": {
+    "$type": "b9ea3359b1204b798a61750d6cb4e723, ConditionsHolder",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Author": "Poffl",
+    "Comment": "Eisenhorn quest prototype 0.1.0",
+    "Conditions": {
+      "Operation": "And",
+      "Conditions": [
+        {
+          "$type": "e77a58dedc8350a4faa55f5e66b9f575, ObjectiveStatus",
+          "name": "$ObjectiveStatus$1d7e3e8fd6735c5ebe6c8dc9b6b224aa",
+          "Not": false,
+          "m_QuestObjective": "!bp_b72f12cf229b501ca5fef51a60373d6b",
+          "State": "Started"
+        }
+      ]
+    }
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

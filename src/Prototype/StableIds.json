@@ -1,0 +1,23 @@
+{
+  "quest": "eb1d6c7b9aa15bc29c28052527bca662",
+  "dialog": "cdef43544674554d9306df77b0c5b4f0",
+  "start-actions": "d511b407438b5baa942275e5c06bf414",
+  "available": "697c097de5b35a2dad69f27eb6cc5cb7",
+  "scene": "18af9b35a70e554282511e8c7160059a",
+  "entity": "6eba8c92a8cf54aeb0050b4599cb8a68",
+  "mechanics-deck": "7b201724267753c196e925f3e7f2ae4a",
+  "mechanics-cabin": "57805f994ecc58919c19a3fef46cfc44",
+  "mechanics-after": "fdceef9076f15cbfa3af89e8d0e6efe9",
+  "page1": "a12c84cefd4b5246883daaded6d51b57",
+  "page2": "d0fdbb0ba95d586e900cd9e4860e2e12",
+  "page3": "3e02c41a2f405376ab51d2e1a0f8dca9",
+  "cue1": "92b1242f16df54d2882788f1b51d4fc4",
+  "cue2": "abdbb2390c5457e891d43448dc9ddc68",
+  "cue3": "e795be0ebcd0524e9cd2ba0688bc0281",
+  "next1": "4e0b335d8337557db8e6ea8f20062db9",
+  "next2": "bdc832ee169b50dda94ac935afa16b42",
+  "ack": "975cc2352b595439affb49e60b194968",
+  "cancel": "c84922dd472d5afab0f9f679aae83bdd",
+  "objective": "b72f12cf229b501ca5fef51a60373d6b",
+  "etude": "c9d6c0e2392251cb89eadb2e908b2f41"
+}

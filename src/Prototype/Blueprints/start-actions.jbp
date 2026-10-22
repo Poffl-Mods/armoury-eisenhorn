@@ -1,0 +1,32 @@
+{
+  "AssetId": "d511b407438b5baa942275e5c06bf414",
+  "Data": {
+    "$type": "63bb90208198450095c55997ebc6ae0a, ActionsHolder",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Author": "Poffl",
+    "Comment": "Eisenhorn quest prototype 0.1.0",
+    "Actions": {
+      "Actions": [
+        {
+          "$type": "0e0c1fe99d7862d4492bcd1535939a9a, StartDialog",
+          "name": "$StartDialog$338b3b9b344a599599c3ba511a3bf202",
+          "DialogueOwner": null,
+          "m_Dialogue": "!bp_cdef43544674554d9306df77b0c5b4f0",
+          "DialogEvaluator": null,
+          "SpeakerName": {
+            "m_Key": "eisenhorn-prototype-speaker",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null
+          }
+        }
+      ]
+    }
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "AssetId": "eb1d6c7b9aa15bc29c28052527bca662",
+  "Data": {
+    "$type": "eddc7c1e81adf5144acd394ebc24ca92, BlueprintQuest",
+    "PrototypeLink": "",
+    "m_Overrides": [],
+    "Components": [],
+    "Author": "Poffl",
+    "Comment": "Eisenhorn quest prototype 0.1.0",
+    "Description": {
+      "m_Key": "eisenhorn-prototype-quest-description",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "Title": {
+      "m_Key": "eisenhorn-prototype-quest-title",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "CompletionText": {
+      "m_Key": "eisenhorn-prototype-quest-complete",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "RegionName": {
+      "m_Key": "eisenhorn-prototype-RegionName",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "Place": {
+      "m_Key": "eisenhorn-prototype-Place",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "ServiceMessage": {
+      "m_Key": "eisenhorn-prototype-ServiceMessage",
+      "m_OwnerString": "",
+      "m_OwnerPropertyPath": "",
+      "m_JsonPath": "",
+      "Shared": null
+    },
+    "Dlc": "None",
+    "m_Group": "Prologue",
+    "m_DescriptionPriority": 0,
+    "m_Type": "Normal",
+    "m_LastChapter": 5,
+    "m_Objectives": [
+      "!bp_b72f12cf229b501ca5fef51a60373d6b"
+    ],
+    "m_IsRumourFalse": false,
+    "m_SilentQuestNotification": 0,
+    "m_EditorComment": {
+      "m_EditorComment": null,
+      "m_Foldout": false
+    }
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}
